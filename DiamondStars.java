@@ -1,4 +1,4 @@
-public class Test{
+public class DiamondStars{
 
     public static void main(String[] args){
 
